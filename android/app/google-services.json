@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002025303647",
+    "project_id": "motivationfirebase-23ed5",
+    "storage_bucket": "motivationfirebase-23ed5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002025303647:android:d189abfe9c73e3abbf65ea",
+        "android_client_info": {
+          "package_name": "com.example.motivations"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATB98lX6p3j8JEF87CBBgC5xp8SUAwihc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
